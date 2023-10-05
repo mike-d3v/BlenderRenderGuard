@@ -24,3 +24,9 @@ You can use these arguments to enable special functionality (simply place them a
 
 ![image](https://github.com/mike-d3v/BlenderRenderGuard/assets/106062742/332e7d4a-d1b8-40cd-83ec-1a23c94718ef)
 
+
+Note: If you get this warning in Windows when you try to run the app, click on "More info" and "Run anyway". It should remember that and won't ask you next time.
+
+![image](https://github.com/mike-d3v/BlenderRenderGuard/assets/106062742/de990693-fc96-4265-9c5e-0743e17bc40f)
+
+
