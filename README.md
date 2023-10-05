@@ -11,12 +11,13 @@ animation rendering from the last existing frame, based on the already rendered 
 - Type in the requested information
 - Done
 
-Blender render guard will remember the settings you typed in, so when you run it next time you don't have to fill it in again.
+Blender render guard will remember the settings you typed in, so when you run it next time, you don't have to fill it in again.
 
 **Special options**
+
 You can use these arguments to enable special functionality (simply place them after the .exe, for example "blenderRenderGuard.exe -z -s"
 
--s - Don't ask the user for any information, simply load whatever was used last time and start the guard. 
+-s - Don't ask the user for any information, simply load whatever was used last time and start the guard. <br>
 -z - Put the computer to sleep after rendering finishes
 
 **Screenshot**
